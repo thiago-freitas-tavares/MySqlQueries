@@ -11,3 +11,5 @@ Este repositório apresenta queries de Bancos de Dados utilizando:
 - CREATE VIEW / AS
 - CREATE TRIGGER / BEFORE UPDATE ON / FOR EACH ROW / SET
 - UPDATE / SET / WHERE
+- CREATE DATABASE / USE / CREATE TABLE / INSERT INTO / VALUES
+- DELETE FROM / DROP
