@@ -96,6 +96,7 @@ GROUP BY ID_Loja;
 -- Tabela Fato: é uma tabela com fatos ou acontecimentos de um negócio em determinados períodos de tempo. Geralmente composta por várias colunas ID para acessar informações das tabelas dimensão.
 
 -- LEFT JOIN, RIGHT JOIN, INNER JOIN, FULL JOIN: permitem relacionar duas tabelas e criar uma terceira tabela, que é junção das duas.
+
 -- JOIN = INNER JOIN junta os itens linkados entre as duas tabelas (não inclui nenhuma célula NULL).
 -- LEFT JOIN apresenta todas as linhas da(s) coluna(s) selecionada(s) na tabela fato e junta com seus respectivos links da tabela dimensão (dimensão inclui células NULL, fato não).
 -- RIGHT JOIN apresenta todas as linhas da(s) coluna(s) selecionada(s) na tabela dimensão e junta com seus respectivos links da tabela fato (fato inclui células NULL, dimensão não).
