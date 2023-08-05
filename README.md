@@ -12,4 +12,4 @@ Este repositório apresenta queries de Bancos de Dados utilizando:
 - CREATE TRIGGER / BEFORE UPDATE ON / FOR EACH ROW / SET
 - UPDATE / SET / WHERE
 - CREATE DATABASE / USE / CREATE TABLE / INSERT INTO / VALUES
-- DELETE FROM / DROP
+- DELETE FROM / DROP.
